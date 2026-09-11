@@ -1,0 +1,6 @@
+{
+  "name": "IntelliWealth Solutions — Outcome Operating System",
+  "description": "AI-guided business design and execution for solo operators and service businesses. Find the costly bottleneck, scope the smallest credible fix, approve the mission, build and verify from evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
